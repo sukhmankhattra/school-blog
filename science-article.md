@@ -1,1 +1,3 @@
-A different take on a science topic.
+
+A brief paragraph about a science discovery with a different take on the topic.
+
